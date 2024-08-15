@@ -7,6 +7,6 @@ The only thing you need to know to use it is that I used the live server extensi
 
 To use the API key with my code you simply need to copy and paste it on line 9 where it says apiKey = "APIKEYHERE"; and again on line 64 where it says "Authorization": "Bearer APIKEYHERE", after doing those things it should work.
 
-If you would just like to see what the chatbot looks like in action without going through the trouble of getting an API key check out the example output file where I have a video demo available to download.
+If you would just like to see what the chatbot looks like in action without going through the trouble of getting an API key check out the example output, chatbot demo, where I have a video demo available to download.
 
 Apologies if this is not the most straightforward, but hopefully things run smoothly, Thanks! 
