@@ -7,4 +7,4 @@ The only thing you need to know to use it is that I used the live server extensi
 
 To use the API key with my code you simply need to copy and paste it on line 9 where it says apiKey = "APIKEYHERE"; and again on line 64 where it says "Authorization": "Bearer APIKEYHERE", after doing those things it should work.
 
-Apologies if this is not the most straightforward, but hopefully things run smoothly. 
+Apologies if this is not the most straightforward, but hopefully things run smoothly, Thanks! 
